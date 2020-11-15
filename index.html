@@ -1,4 +1,8 @@
 <html>
 <title>PHP</title>
-  <?php header("Location: https://php-test-zeta.vercel.app/api/index.php"); ?>
+  <?php
+// PHP permanent URL redirection
+header("Location: https://php-test-zeta.vercel.app/api/index.php", true, 301);
+exit();
+?>
 </html>
