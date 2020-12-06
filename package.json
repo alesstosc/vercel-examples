@@ -1,14 +1,25 @@
 {
-  "name": "myjavascriptest",
+  "name": "vercel-examples",
   "version": "1.0.0",
-  "description": "file di prova che non vale un cazzo",
+  "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "dev":"next dev"
   },
-  "keywords": [
-    "https://git.heroku.com/myjavascriptest.git"
-  ],
-  "author": "Alessandro Toscano",
-  "license": "UNLICENSED"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alesstosc/vercel-examples.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alesstosc/vercel-examples/issues"
+  },
+  "homepage": "https://github.com/alesstosc/vercel-examples#readme",
+  "dependencies": {
+    "next": "^9.4.4",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  }
 }
