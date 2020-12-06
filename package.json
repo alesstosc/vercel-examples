@@ -1,0 +1,14 @@
+{
+  "name": "myjavascriptest",
+  "version": "1.0.0",
+  "description": "file di prova che non vale un cazzo",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "https://git.heroku.com/myjavascriptest.git"
+  ],
+  "author": "Alessandro Toscano",
+  "license": "UNLICENSED"
+}
